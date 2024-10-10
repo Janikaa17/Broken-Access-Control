@@ -1,1 +1,1 @@
-this lab exercise deals with delete a user named carlos by first finding the admin panel.
+this lab exercise deals with deleting a user named carlos by first finding the admin panel.
