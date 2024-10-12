@@ -1,0 +1,1 @@
+This lab exercise deals with finding the admin panel and delete the user carlos.
