@@ -1,0 +1,2 @@
+this lab exercise deals with deleting user named carlos where user role can be modified in user profile.
+
