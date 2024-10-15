@@ -1,0 +1,1 @@
+this lab exercise deals with deleting a user named carlos and website has an unauthenticated admin panel at /admin, but a front-end system has been configured to block external access to that path. However, the back-end application is built on a framework that supports the X-Original-URL header.
